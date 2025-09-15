@@ -1,0 +1,8 @@
+name: "mindustryhardcore"
+displayName: "Mindustry Hardcore"
+author: ToMacMa
+description: "A hardcore mod for mindustry."
+version: "0.1"
+minGameVersion: "151.1"
+dependencies: [ ]
+hidden: false
