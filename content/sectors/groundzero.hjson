@@ -3,3 +3,4 @@ captureWave: 10
 sector: 170
 difficulty: 2
 alwaysUnlocked: true
+overrideLaunchDefaults: true
